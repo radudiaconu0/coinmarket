@@ -1,0 +1,1 @@
+add COINMARKET_API_KEY as env variable for the api to work
